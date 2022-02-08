@@ -1,0 +1,22 @@
+body{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+
+}
+
+.blogPage{
+    color: black;
+    text-align: center;
+
+}
+.blogPageHeader{
+    font-style: oblique;
+    
+}
+
+h1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
